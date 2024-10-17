@@ -1,6 +1,7 @@
 **⭐Mobile Phones Analysis Project**
 This project showcases an in-depth analysis of mobile phone data using SQL, Excel, and Power BI. The project was focused on understanding phone specifications, price patterns, and brand performance across various countries.
 
+
 **⭐Problem Statement:**
 The mobile phone market is highly competitive, with numerous brands offering a wide range of products with varying features and prices. Understanding the dynamics of this market—such as which brands dominate specific price ranges, how different operating systems perform, and which features (like 5G and battery capacity) impact pricing—is crucial for both consumers and businesses.
 
@@ -15,6 +16,7 @@ This project aims to analyze mobile phone data to uncover patterns in pricing, s
 ➡What is the price distribution of phones by brand and operating system, and which phones provide the highest price-to-performance ratio?
 
 
+
 **⭐Project Overview**
 
 📽Project Overview:
@@ -27,6 +29,7 @@ In this project, I conducted an end-to-end data analysis on mobile phone specifi
 👉Data Visualization: Imported the SQL queries into hashtag#Power BI to create an interactive dashboard for visual insights.
 
 
+
 **⭐Tools Used:**
 
 ➡Excel: Data cleaning and preparation
@@ -34,6 +37,7 @@ In this project, I conducted an end-to-end data analysis on mobile phone specifi
 ➡SQL: Writing queries to analyze data
 
 ➡Power BI: Dashboard creation for data visualization
+
 
 
 **🎖Key Achievements:**
@@ -49,6 +53,7 @@ In this project, I conducted an end-to-end data analysis on mobile phone specifi
 ♦Found brands with the highest average battery capacity for phones with selfie cameras above 16 MP.
 
 
+
 **✨Power BI Visualizations:**
 
 ♦ Visualized the average price and count of phones by brands.
@@ -60,6 +65,7 @@ In this project, I conducted an end-to-end data analysis on mobile phone specifi
 ♦Created charts highlighting key metrics like operating systems used by phones and brands offering most variants.
 
 
+
 **⭐File Structure**
 
 ➡SQL_Queries: Contains the SQL queries used for analysis.
@@ -69,6 +75,7 @@ In this project, I conducted an end-to-end data analysis on mobile phone specifi
 ➡PowerBI_Dashboard: The Power BI file used for visualization.
 
 ➡Dashboard_Screenshots: Images of the Power BI dashboard.
+
 
 
 **⭐How to Use:**
