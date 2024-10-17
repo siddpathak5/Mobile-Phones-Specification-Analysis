@@ -17,13 +17,14 @@ This project aims to analyze mobile phone data to uncover patterns in pricing, s
 
 **⭐Project Overview**
 
-In this project, I:
+📽Project Overview:
+In this project, I conducted an end-to-end data analysis on mobile phone specifications using a dataset with columns such as Phone_name, Brands, Price, Internal_Storage, Operating_System_Type, USB_Type, 5G_Availability, and more. The project was executed in three phases:
 
-➡Cleaned and prepared the dataset in Excel.
+👉Data Cleaning: Cleaned and prepared the data using hashtag#Excel.
 
-➡Performed data analysis using SQL with 16 advanced queries to extract insights.
+👉Data Analysis: Leveraged hashtag#SQL to perform complex queries for insightful analysis.
 
-➡Created an interactive dashboard in Power BI to visualize key findings.
+👉Data Visualization: Imported the SQL queries into hashtag#Power BI to create an interactive dashboard for visual insights.
 
 
 **⭐Tools Used:**
@@ -35,15 +36,28 @@ In this project, I:
 ➡Power BI: Dashboard creation for data visualization
 
 
-**⭐Key Insights**
+**🎖Key Achievements:**
 
-➡Total transaction amount for each brand
+**✨SQL Queries for Analysis:**
 
-➡Top 3 most expensive phones per operating system
+♦Calculated the total transaction amount for each brand.
 
-➡Percentage of 128 GB phones with 5G support
+♦Identified the top 3 most expensive phones by operating system.
 
-➡Average battery capacity of phones with selfie cameras >16MP
+♦Analyzed the percentage of phones with 128 GB internal storage that support 5G.
+
+♦Found brands with the highest average battery capacity for phones with selfie cameras above 16 MP.
+
+
+**✨Power BI Visualizations:**
+
+♦ Visualized the average price and count of phones by brands.
+
+♦Showed the distribution of phone variants by internal storage and price range.
+
+♦Compared the availability of 5G across different brands and countries.
+
+♦Created charts highlighting key metrics like operating systems used by phones and brands offering most variants.
 
 
 **⭐File Structure**
@@ -55,17 +69,6 @@ In this project, I:
 ➡PowerBI_Dashboard: The Power BI file used for visualization.
 
 ➡Dashboard_Screenshots: Images of the Power BI dashboard.
-
-
-**⭐Dashboard Visualizations**
-
-The Power BI dashboard includes:
-
-➡Average price and count of phones by brands.
-
-➡5G availability across brands and countries.
-
-➡Distribution of phones by internal storage and price range.
 
 
 **⭐How to Use:**
